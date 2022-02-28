@@ -27,7 +27,7 @@ To know more about my functions click : ℹ️ help
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
-- Source - https://github.com/senalbiber/EvaMaria  
+- Source - https://github.com/EvamariaTG/EvaMaria 
 
 <b>DEVS:</b>
 - <a href=https://t.me/happyisapartofmylife>:) ~/~ happy ~/~ :)</a>"""
