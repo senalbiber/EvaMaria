@@ -1,15 +1,15 @@
 class script(object):
     START_TXT = """Hey,🙋 {},
 
-�IM just an Auto-Filter Bot.
+ιм נυsт αη 🇦‌🇺‌🇹‌🇴‌-🇫‌🇮‌🇱‌🇹‌🇪‌🇷‌ вσt.
 
-Working official at @cinamahublk
+Working official at <a href=https://t.me/cinamahublk>cinema hub</a>
 
 Use "🔍 Search" option to search for files Inline.
 
 To know more about my functions click : ℹ️ help 
 
-📎MAINTAINED BY :  @happyisapartofmylife"""
+📎MAINTAINED BY :  <a href=https://t.me/happyisapartofmylife>:) ~/~ happy ~/~ :)</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
